@@ -1,0 +1,71 @@
+.why-section {
+  background: url(../images/why-bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  .why-header {
+    background: url(../images/about-header.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .why-body {
+    .features {
+      padding-top: 1%;
+      background-color: #fff;
+      padding-left: 10%;
+
+      .body {
+        padding-left: 15px;
+        padding-bottom: 1%;
+
+        /* Small Devices, Tablets */
+        @media only screen and (max-width : 768px) {
+          padding-left: 0;
+        }
+
+        ul li {
+          /* Bullet color */
+          color: #aeaeae;
+          list-style-type: disc;
+        }
+
+        ul li span {
+          /* Text color */
+          color: black;
+        }
+      }
+    }
+
+    .testimonials {
+      padding-top: 1%;
+      color: #fff;
+      background-color: #2E3E4B;
+      padding-right: 10%;
+      padding-bottom: 2%;
+
+      .body{
+        padding: 0 15px;
+
+        em {
+          font-weight: bold;
+          margin-bottom: 10px;
+          display: inline-block;
+        }
+
+        p {
+          font-style: italic;
+          color: rgba(255, 255, 255, 0.8);
+        }
+
+        em {
+          color: #fff;
+        }
+      }
+    }
+  }
+}

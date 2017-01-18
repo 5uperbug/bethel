@@ -1,0 +1,15 @@
+{% extends "layout.nunjucks" %}
+{% block content %}
+  {% include "partials/sidenav.nunjucks" %}
+
+  {% include "partials/nav.nunjucks" %}
+
+  {% include "partials/home-section.nunjucks" %}
+
+  {% include "partials/about-section.nunjucks" %}
+
+  {% include "partials/why-section.nunjucks" %}
+
+  {% include "partials/contact-section.nunjucks" %}
+
+{% endblock %}

@@ -1,0 +1,47 @@
+<a id="why" class="anchor"></a>
+<div class="why-section container-fluid fullscreen">
+  <div class="row layout-padding why-header">
+    <div class="col-md-12">
+      <h2 class="title">WHY BETHEL?</h2>
+      <hr class="title-hr">
+      <h1 class="title-caption">THE BETHEL ADVANTAGE</h1>
+    </div>
+  </div>
+
+  <div class="row why-body">
+    <div class="col-md-6 features">
+      <div class="body">
+        <h3 class="subtitle">What We Chug Into Every Assignment</h3>
+        <ul>
+          <li><span>Over three decades of collective experience</span> </li>
+          <li><span>End-to-end construction services; from architecture to interior design</span></li>
+          <li><span>The assurance of quality and on-time delivery of every project taken up</span></li>
+          <li><span>A prolific and dedicated team of engineers, architects, designers &amp; project managers</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-md-6 testimonials">
+      <div class="body">
+        <h3 class="subtitle">And Word Goes Around</h3>
+        <p>
+          <em>“A heart for ministry; work with integrity!”</em>
+          <br>‘I have personally known Bethel Associates for the last eight years. They did a wonderful job in constructing my sister’s house as well as the office building for Karnataka Evangelistic Association - all at the most economical rates. I was in charge of the project and I can personally vouch for this. They have a heart for ministry and work with integrity. Recently, they also successfully executed a project for the Bible Society of India at the William Carey Block at Hall Road, Bangalore. I wish them all the best and may God bless their endeavors.’
+          <br>-Dr. P.I. Varghese, Director
+          <br>Marketing I/C, The Bible Society of India
+        </p>
+        <p>
+          <em>“To our satisfaction, and in record time!”</em>
+          <br>‘At the outset, I congratulate you for constructing ‘Ferns Villa’, a three-storey house for my son and my family in Ramamurthy Nagar, to our satisfaction and in record time. We, the Fernandes’ wish this venture and all the activities of Bethel Associates every success.’
+          <br>-Fernandes &amp; Family
+        </p>
+        <p>
+          <em>“Quality buildings, at most reasonable costs!”</em>
+          <br>‘May the Lord bless Bethel Associates as you continue to serve society, providing quality buildings at most reasonable costs – hats off to your very sincere work.’
+          <br>-Rev. V Johnson,
+          <br>Bethel AG Church, Hebbal, Bangalore
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

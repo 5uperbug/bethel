@@ -1,0 +1,39 @@
+<a id="contact" class="anchor"></a>
+<div class="contact-section container-fluid fullscreen">
+  <div class="row layout-padding">
+    <div class="col-md-12">
+      <h2 class="title">CONTACT US</h2>
+      <hr class="title-hr">
+      <h1 class="title-caption">WE'RE BY YOUR SIDE</h1>
+    </div>
+  </div>
+  <div class="row margin-top layout-padding">
+    <div class="col-md-6">
+      <div class="google-maps">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1884.0417520407443!2d72.82996674079854!3d19.191554797679096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b6eb09db9de7%3A0xb86ed25b81fd9a58!2s5%2C+Manali+Building%2C+Evershine+Nagar%2C+Malad+West%2C+Mumbai%2C+Maharashtra+400064!5e0!3m2!1sen!2sin!4v1479549269439" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
+    </div>
+    <div class="col-md-6 contact">
+      <h3>VISIT US</h2>
+      <p>
+        Bethel Associates <br>
+        #44, Mosque Road, Fraser Town, <br>
+        Bangalore 560 005
+      </p>
+      <h3>CALL</h2>
+      <p>
+        +91 81059 75134 <br>
+        +91 80 4126 4815
+      </p>
+      <h3>WRITE TO US</h2>
+      <p>
+        <a href="mailto:bethelinbangalore@gmail.com">bethelinbangalore@gmail.com</a>
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 copyright">
+      Copyright ©&nbsp;<script>document.write(new Date().getFullYear());</script>&nbsp;- Bethel Associates Pvt. Ltd. All rights reserved.
+    </div>
+  </div>
+</div>

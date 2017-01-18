@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- Mobile-friendly viewport -->
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="author" content="5uperbug / HCP">
+
+  <title>Bethel Associates</title>
+
+  <!-- SEO CRAP -->
+  <meta name="keywords" content="Bethel Associates">
+  <meta name="description" content="From building homes for individuals to taking on construction projects for various institutions and organizations, Bethel with its lean and expert team of architects, engineers and workers continues to impress – both in service and duty.">
+  <meta name="Robots" content="all"/>
+
+  <!-- CSS -->
+  <link href="https://fonts.googleapis.com/css?family=Oswald:300,400|Roboto:300|Playfair+Display" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  {# <link href="//cdn.rawgit.com/noelboss/featherlight/1.6.0/release/featherlight.min.css" type="text/css" rel="stylesheet" /> #}
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- You write code for this content block in another file -->
+  {% block content %} {% endblock %}
+
+  <!-- JS LIBS -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  {# <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
+  <script src="//cdn.rawgit.com/noelboss/featherlight/1.6.0/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script> #}
+  <script src="js/index.js"></script>
+</body>
+</html>

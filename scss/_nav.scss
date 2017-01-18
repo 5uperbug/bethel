@@ -1,0 +1,22 @@
+.navbar-brand {
+  img {
+    width: 120px;
+    height: auto;
+  }
+}
+
+.navbar-default {
+  background-color: #fff;
+
+  .navbar-nav > li > a {
+    color: #2e3f4c;
+  }
+}
+
+.navbar-header {
+  padding-left: 15px;
+}
+
+#navbar {
+  padding: 0 15px;
+}

@@ -1,0 +1,19 @@
+<!-- Use to open the sidenav -->
+<div class="hamburger visible-xs visible-sm">
+  <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+</div>
+<a id="home" class="anchor home-anchor"></a>
+<div class="home-section container-fluid fullscreen">
+  <div class="logo-container valigner">
+    <div class="valigner-item jumbotron">
+      <h2>BETHEL ASSOCIATES</h2>
+      <hr>
+      <h1>&#8226; BUILD ON A ROCK OF TRUST &#8226;</h1>
+    </div>
+  </div>
+  <div class="chev-container">
+    <a href="#about" class="chev scroll">
+      <img src="images/chev-white.png" alt="scroll down" />
+    </a>
+  </div>
+</div>

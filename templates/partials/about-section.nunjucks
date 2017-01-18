@@ -1,0 +1,23 @@
+<a id="about" class="anchor"></a>
+<div class="about-section container-fluid fullscreen">
+  <div class="row about-header layout-padding">
+    <div class="col-md-12">
+      <h2 class="title">ABOUT US</h2>
+      <hr class="title-hr">
+      <h1 class="title-caption">WE ARE BETHEL</h1>
+    </div>
+  </div>
+
+  <div class="row about-body layout-padding">
+    <div class="col-md-5">
+      <p>Bethel Associates was formed during the last few months of 2010, which was when a handful of like-minded individuals decided to come together to start an organization committed to integrity and reliability in the construction industry. From then to the current day, it is those founding objectives that have seen Bethel Associates through its many successes.</p>
+      <p>From building homes for individuals to taking on construction projects for various institutions and organizations, Bethel with its lean and expert team of architects, engineers and workers continues to impress – both in service and duty.</p>
+      <p><h4 class="subtitle">Key Projects &amp; Landmark Achievements</h4></p>
+      <p><em>Two-storey building for KEA (Karnataka Evangelistic Association); built on solid rock, an engineering and construction marvel by itself.</em></p>
+      <p><em>Administration Block for Bethel AG English Church, Bangalore; built on a plot of land that was previously a lake.</em></p>
+    </div>
+    <div class="col-md-7">
+      <img src="images/about-pic.jpg" alt="About Bethel Associates" class="img-responsive">
+    </div>
+  </div>
+</div>

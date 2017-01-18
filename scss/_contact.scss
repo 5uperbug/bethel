@@ -1,0 +1,58 @@
+.contact-section {
+  background: url(../images/contact-bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  .contact {
+    color: #fff;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+
+    &:hover {
+      color: #CC9933;
+      text-decoration: none;
+    }
+  }
+
+  p {
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+      font-size: 0.8em;
+    }
+  }
+
+  h2 {
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+      font-size: 1.4em;
+      margin-bottom: 3px;
+    }
+  }
+
+  .google-maps {
+    position: relative;
+    padding-bottom: 75%; // This is the aspect ratio
+    height: 0;
+    overflow: hidden;
+
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100% !important;
+      height: 100% !important;
+    }
+  }
+
+  .copyright {
+    text-align: center;
+    font-size: 0.8em;
+    color: #fff;
+    padding-top: 1%;
+  }
+}

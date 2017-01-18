@@ -1,0 +1,19 @@
+.about-section {
+
+  .about-header {
+    background: url(../images/about-header.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .about-body {
+    padding-top: 2%;
+
+    img {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
